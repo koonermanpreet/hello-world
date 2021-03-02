@@ -1,40 +1,8 @@
 <html>
 <head>
-<title>HTML CSS</title>
-<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Aldrich" />
-<style>
-body
-{
-background-color:#D3D3D3;
-}
-h1
-{
-border: 4px solid black;
-text-align:center;
-}
-h2
-{
-color:purple
-}
-input
-{
-border: 5px solid darkblue
-}
-#textblock
-{
-border:5px solid gray;
-width:800px;
-height:400px;
-}
-a
-{
-color: red
-}
-* 
-{
-font-family:Aldrich, sans-serif;
-}
-</style>
+<title>assignment</title>
+
+
 </head>
 <body>
 <h1>Welcome to Puppy Blog!</h1>
